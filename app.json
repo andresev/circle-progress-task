@@ -1,0 +1,8 @@
+{
+  "name": "gpProgressApp",
+  "displayName": "gpProgressApp",
+  "ios": {
+    "bundleIdentifier": "gpProgressApp",
+    "supportsTablet": true
+  }
+}
